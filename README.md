@@ -1,6 +1,6 @@
 # Hola, soy Franco👋
 
-Soy egresado de la carrera de computación e informática, y me apasiona el desarrollo de software y la inteligencia artificial. Me gusta aprender nuevas tecnologías y crear soluciones innovadoras para los problemas del mundo real.
+Titulado de la carrera de computación e informática, y me apasiona el desarrollo de software y la inteligencia artificial. Me gusta aprender nuevas tecnologías y crear soluciones innovadoras para los problemas del mundo real.
 
 ## Mis habilidades 🚀
 
