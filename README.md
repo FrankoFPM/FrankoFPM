@@ -4,7 +4,7 @@ Full Stack Developer & Tech Lead en BCP Consulting. Llevo proyectos desde cero h
 
 - Portafolio: [francopm.dev](https://francopm.dev)
 - SaaS propio: [arrendo.pe](https://arrendo.pe)
-- LinkedIn: [Franco Pérez Melgarejo](https://www.linkedin.com/in/franco-johan-p%C3%A9rez-melgarejo-3565181b1/)
+- LinkedIn: [Franco Pérez Melgarejo](https://www.linkedin.com/in/franco-perez-melgarejo/)
 - Correo: frank.13.gp@gmail.com
 
 ## Stack
