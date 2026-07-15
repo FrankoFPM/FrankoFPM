@@ -1,3 +1,9 @@
+<div align="center">
+
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hola%20soy%20Franco&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20Tech%20Lead&descAlignY=55&descSize=16)
+
+</div>
+
 # Franco Pérez
 
 Full Stack Developer & Tech Lead en BCP Consulting. Llevo proyectos desde cero hasta producción — arquitectura, desarrollo e infraestructura cloud — en fintech, EdTech, ERPs y puntos de venta.
